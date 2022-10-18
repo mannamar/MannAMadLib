@@ -59,12 +59,12 @@ while (wantsToPlay) {
 
   string response = Console.ReadLine().ToLower();
 
-  while (response != "yes" && response != "no") {
+  while (response != "yes" && response != "no" && response != "y" && response != "n") {
     Console.WriteLine("I didn't quite get that. Please type \"yes\" or \"no\"");
     response = Console.ReadLine().ToLower();
   }
 
-  if (response == "yes") {
+  if (response == "yes" || response == "y") {
       Console.WriteLine("\nCool! Let's run it back then\n");
     } else {
       wantsToPlay = false;
