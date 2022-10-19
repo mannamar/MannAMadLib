@@ -53,7 +53,7 @@ while (wantsToPlay) {
 
   Console.WriteLine("\nGreat work! Here's your story:\n");
 
-  Console.WriteLine("Did you ever hear the tragedy of Darth " + word1 + " the " + word2 + "? I thought not. It\'s not a story a " + word3 + " would tell you. Its a " + word4 + " legend. Darth " + word1 + " was a Dark Lord of " + word4 + ", so " + word5 + " and so " + word6 + " he could use the " + word7 + " to influence midichlorians to create " + word8 + ". He had such a knowledge of the " + word9 + " side of The Force that he could even keep the ones he cared about from " + word10 + ".");
+  Console.WriteLine($"Did you ever hear the tragedy of Darth {word1} the {word2}? I thought not. It\'s not a story a {word3} would tell you. Its a {word4} legend. Darth {word1} was a Dark Lord of {word4}, so {word5} and so {word6} he could use the {word7} to influence midichlorians to create {word8}. He had such a knowledge of the {word9} side of The Force that he could even keep the ones he cared about from {word10}.");
 
   Console.WriteLine("\nWow what an exciting tale! Do you want to play again?");
 
