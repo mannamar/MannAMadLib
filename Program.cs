@@ -60,7 +60,7 @@ while (wantsToPlay) {
   string response = Console.ReadLine().ToLower();
 
   while (response != "yes" && response != "no" && response != "y" && response != "n") {
-    Console.WriteLine("I didn't quite get that. Please type \"yes\" or \"no\"");
+    Console.WriteLine("I didn't quite get that. Please type \"y\" or \"n\"");
     response = Console.ReadLine().ToLower();
   }
 
