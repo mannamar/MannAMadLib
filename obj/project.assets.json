@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannMadLib/AMannMadLib.csproj",
+      "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAMadLib/AMannMadLib.csproj",
       "projectName": "AMannMadLib",
-      "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannMadLib/AMannMadLib.csproj",
+      "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAMadLib/AMannMadLib.csproj",
       "packagesPath": "/Users/amardeepmann/.nuget/packages/",
-      "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannMadLib/obj/",
+      "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAMadLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amardeepmann/.nuget/NuGet/NuGet.Config"
