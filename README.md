@@ -1,3 +1,3 @@
-# AMannMadLib
+# MannAMadLib
 
 Peer reviewed by :
