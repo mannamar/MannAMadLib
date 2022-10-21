@@ -2,6 +2,8 @@
 // 10-18-22
 // Mini Challenge #5 "Mad Lib"
 // Ask the user to input 10 Mad Lib fields and then output the resulting story to the console
+// Peer reviewed by : Andrew Nilsson - What a great story! The program works great and couldn't find any issues with validating for play again input. If you would like to improve this code in the future I would suggest you make the questions and inputs arrays.
+// Github link: https://github.com/peedrama/MannAMadLib
 
 Console.Clear();
 
